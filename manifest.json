@@ -1,0 +1,26 @@
+{
+    "name": "Angielski",
+    "version": "0.0.1",
+    "description": "Ucz się!!!",
+    "icons": {
+        "128": "flag_eng_128.png",
+        "48": "flag_eng_48.png",
+        "16": "flag_eng_16.png"
+    },
+    "background": {
+        "scripts": ["jquery-1.9.1.min.js", "context_menu.js"]
+    },
+    "content_scripts": [
+        {
+            "matches": ["http://*/*", "https://*/*"],
+            "js": ["jquery-1.9.1.min.js", "content_script.js"],
+            "css": ["styles.css"]
+        }
+    ],
+    "permissions": ["tabs", "http://pl.bab.la/*", "http://127.0.0.1/*", "contextMenus", "http://angielski.elmccd.pl/*"],
+    "manifest_version": 2,
+    "web_accessible_resources": [
+    "img/*",
+    "styles.css"
+    ]
+}
