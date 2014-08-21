@@ -11,4 +11,4 @@ You can add new words with + button in extension.
 
 If you like it, or you are using this let me know, I will get it together.
 
-It's old and rar, and can be turned of any day.
+It's old and raw, and can be turned of any day.
