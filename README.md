@@ -2,7 +2,7 @@
 
 > Chrome extension for Polish <-> English based on bab.la
 
-![Preview](https://raw.githubusercontent.com/elmccd/wordki/master/preview.png "Preview")
+![Preview](https://raw.githubusercontent.com/elmccd/wordki-chrome-extension/master/preview.png "Preview")
 
 ##You wanna more?
 Right click anywhere and select Angielski.
